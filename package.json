@@ -29,7 +29,7 @@
     "vue-apollo": "^3.0.0-beta.28",
     "vue-router": "^3.0.2",
     "vuefire": "^2.0.0-alpha.21",
-    "vuetify": "^2.2.11",
+    "vuetify": "^2.6.10",
     "vuex": "^3.1.0"
   },
   "devDependencies": {
